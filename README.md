@@ -6,6 +6,7 @@ This is a list of useful commands to find information about a system, including 
 system_profiler
 
 The system_profiler command is a command line interface (CLI) to the System Profiler application that every Mac comes with. This command is useful in situations where it is necessary to probe a machine that you don’t have permissions to access a GUI.
+
 DETAILLEVEL
 The system_profiler command offers three different levels of reports: mini, basic, and full.
 
