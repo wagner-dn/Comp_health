@@ -14,4 +14,5 @@ system_profiler -detailLevel basic: This command generates the report with only 
 system_profiler -detailLevel full: Generates a report with all of the available information from System Profiler.
 
 This is the one you generally want. Outputs hardware on system
+
 $ system_profiler SPHardwareDataType
